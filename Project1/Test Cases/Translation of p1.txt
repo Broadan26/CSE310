@@ -1,0 +1,14 @@
+Part 1.1.0
+Treat the line as a string of length N
+Compute and store every cyclic shift of the string as it shifts left by 1 character
+Then sort N cyclic shifts in lexicographic order by ASCII code (Sorted Column)
+
+	Output:
+	Index of row in which original string appears in Sorted Column
+	Form a string last consisting of last character of each Sorted string denoted by number of times they appear sequentially
+
+Part 1.1.1 https://github.com/YansongPeng/CSE310/blob/master/Project%201/Code/main.cc
+Takes 1 input parameter from the command line
+Keyword indicating which sorting algorithm to use
+Text to encode must be read from stdin
+
