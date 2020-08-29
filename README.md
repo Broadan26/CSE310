@@ -8,4 +8,8 @@ Implement merge sort and insertion sort to encode and decode text files using st
 
 ### Project 2
 
-Code will be posted once submission deadline has passed.
+Use multiple different data structures to query Storm event data. Data structures include a Hash Table, Binary Search Tree, and a Max Heap.
+
+### Project 3
+
+Read in binary data to construct about sea ice concentration and utilize Floyd-Warshall, Clustering Coefficients, a histogram and other statistical methods to analyze the data.
