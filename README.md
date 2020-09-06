@@ -12,4 +12,4 @@ Use multiple different data structures to query Storm event data. Data structure
 
 ### Project 3
 
-Read in binary data to construct about sea ice concentration and utilize Floyd-Warshall, Clustering Coefficients, a histogram and other statistical methods to analyze the data.
+Read in binary data to construct models about sea ice concentration and utilize Floyd-Warshall, Clustering Coefficients, a histogram and other statistical methods to analyze the data.
